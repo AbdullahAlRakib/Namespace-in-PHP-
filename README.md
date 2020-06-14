@@ -1,0 +1,2 @@
+# Namespace-in-PHP-
+namespace
